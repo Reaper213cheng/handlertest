@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HandlerTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="prev">上一张</string>
+    <string name="post">下一张</string>
+    <string name="Central">自动播放</string>
+
+</resources>
