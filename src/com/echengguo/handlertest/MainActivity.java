@@ -71,7 +71,8 @@ public class MainActivity extends Activity {
 						msg.what = SWITCH_CYCLE;
 						handler.sendMessage(msg);
 						Log.i(TAG, "Thread id " + Thread.currentThread().getId() + ",sendmessage SWITCH_CYCLE" );
-						Thread.sleep(100);
+						Thread.sleep(10000);
+						System.out.println("这是一次Git测试！！！");
 					} catch (Exception e) {
 						// TODO: handle exception
 					}
